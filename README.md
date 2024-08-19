@@ -1,3 +1,2 @@
-# Math
-Mathematical formula for approximating the value of pi
-Eng.Anton Samy
+# Math by Eng.Anton Samy
+1 Mathematical formula for approximating the value of pi  (pi.cpp)
