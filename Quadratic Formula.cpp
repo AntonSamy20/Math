@@ -11,7 +11,7 @@ int main(){
     cout<<"The Equation must be aX^2 + bX + c = 0"<<endl;
     cout<<"Enter the coefficient of X^2 : ";
     cin>>a;
-    cout<<"Enter the co-coefficient of X: ";
+    cout<<"Enter the coefficient of X: ";
     cin>>b;
     cout<<"Enter the constant value: ";
     cin>>c;
