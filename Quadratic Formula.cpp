@@ -1,3 +1,6 @@
+//---------------------------
+// Eng.Anton Samy Tawfeek //
+//---------------------------
 #include<iostream>
 #include<cmath>
 #include<iomanip>
@@ -6,9 +9,9 @@ void roots(double ,double ,double);
 int main(){
     double a,b,c;
     cout<<"The Equation must be aX^2 + bX + c = 0"<<endl;
-    cout<<"Enter the co-officient of X^2 : ";
+    cout<<"Enter the coefficient of X^2 : ";
     cin>>a;
-    cout<<"Enter the co-officient of X: ";
+    cout<<"Enter the co-coefficient of X: ";
     cin>>b;
     cout<<"Enter the constant value: ";
     cin>>c;
